@@ -1,11 +1,18 @@
 {
   "name": "mimetype-recognised",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Tim Macfarlane <timmacfarlane@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/featurist/mimetype-recognised.git"
+  },
+  "bugs": {
+    "url": "https://github.com/featurist/mimetype-recognised/issues"
+  },
+  "homepage": "https://github.com/featurist/mimetype-recognised"
 }
